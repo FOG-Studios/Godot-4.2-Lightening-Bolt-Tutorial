@@ -20,3 +20,5 @@ From there, the values go up the more points we add. We can obviously add nearly
 So let's try it out. Our end point will be where the touch is. In my case I am checking for touch input, but you can check for whatever you like, even buttons.
 
 For a closer look... the short video is here
+
+https://studio.youtube.com/video/tq87hEcjFzk/edit
